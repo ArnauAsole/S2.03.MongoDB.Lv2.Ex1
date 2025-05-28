@@ -1,0 +1,39 @@
+[{
+  "_id": "64ab0f2cd1b4a0c1f2e3ab45",
+  "firstName": "Joan",
+  "lastName": "Pérez",
+  "address": {
+    "street": "Carrer Gran Via",
+    "number": "45",
+    "city": "Barcelona",
+    "postalCode": "08010",
+    "province": "Barcelona"
+  },
+  "phone": "612345678"
+},
+{
+  "_id": "abc123def456abc789def012",
+  "firstName": "Laia",
+  "lastName": "Martínez",
+  "address": {
+    "street": "Avinguda Diagonal",
+    "number": "202",
+    "city": "Barcelona",
+    "postalCode": "08018",
+    "province": "Barcelona"
+  },
+  "phone": "677889900"
+},
+{
+  "_id": "fedcba0987654321abcdef98",
+  "firstName": "Marc",
+  "lastName": "Soler",
+  "address": {
+    "street": "Carrer Aragó",
+    "number": "12",
+    "city": "Barcelona",
+    "postalCode": "08015",
+    "province": "Barcelona"
+  },
+  "phone": "699887766"
+}]
