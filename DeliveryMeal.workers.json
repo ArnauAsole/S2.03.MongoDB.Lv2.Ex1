@@ -1,0 +1,36 @@
+[{
+  "_id": "abcdef1234567890abcdef12",
+  "firstName": "Jordi",
+  "lastName": "López",
+  "nif": "12345678A",
+  "phone": "622334455",
+  "role": "delivery",
+  "storeId": "5f2e3ab464ab0f2cd1b4a0c1"
+},
+{
+  "_id": "abcdef1234567890abcdef01",
+  "firstName": "Clara",
+  "lastName": "Ribas",
+  "nif": "12345679A",
+  "phone": "622334459",
+  "role": "cook",
+  "storeId": "a1b2c3d4e5f67890abcd0001"
+},
+{
+  "_id": "abcdef1234567890abcdef02",
+  "firstName": "David",
+  "lastName": "Casas",
+  "nif": "12345680A",
+  "phone": "622334460",
+  "role": "delivery",
+  "storeId": "a1b2c3d4e5f67890abcd0002"
+},
+{
+  "_id": "abcdef1234567890abcdef03",
+  "firstName": "Elena",
+  "lastName": "Martí",
+  "nif": "12345681A",
+  "phone": "622334461",
+  "role": "cook",
+  "storeId": "a1b2c3d4e5f67890abcd0003"
+}]

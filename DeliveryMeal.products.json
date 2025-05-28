@@ -1,0 +1,50 @@
+[{
+  "_id": "a1b2c3d4e5f67890abcd1234",
+  "name": "Pizza Margarita",
+  "description": "Classic pizza with tomato and mozzarella",
+  "image": "margarita.jpg",
+  "price": 8.5,
+  "type": "pizza",
+  "category": "Classic"
+},
+{
+  "_id": "1234abcd5678ef901234abcd",
+  "name": "Cheeseburger",
+  "description": "Beef burger with cheddar cheese",
+  "image": "cheeseburger.jpg",
+  "price": 6.5,
+  "type": "burger"
+},
+{
+  "_id": "7890abcd1234ef905678abcd",
+  "name": "Cola Drink",
+  "description": "33cl bottle of Cola",
+  "image": "cola.jpg",
+  "price": 1.5,
+  "type": "drink"
+},
+{
+  "_id": "cafebabef00d123456789abc",
+  "name": "Four Cheese Pizza",
+  "description": "Pizza with four different cheeses",
+  "image": "four_cheese_pizza.jpg",
+  "price": 9,
+  "type": "pizza",
+  "category": "Special"
+},
+{
+  "_id": "deadbeef12345678abcddcba",
+  "name": "Chicken Burger",
+  "description": "Crispy chicken with lettuce and mayo",
+  "image": "chicken_burger.jpg",
+  "price": 7,
+  "type": "burger"
+},
+{
+  "_id": "beadfeed9876543210abcdef",
+  "name": "Orange Juice",
+  "description": "Fresh squeezed orange juice",
+  "image": "orange_juice.jpg",
+  "price": 2.5,
+  "type": "drink"
+}]

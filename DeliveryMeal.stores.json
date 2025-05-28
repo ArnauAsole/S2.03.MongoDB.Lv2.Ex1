@@ -1,0 +1,28 @@
+[{
+  "_id": "5f2e3ab464ab0f2cd1b4a0c1",
+  "address": "Avinguda Diagonal, 210",
+  "postalCode": "08018",
+  "city": "Barcelona",
+  "province": "Barcelona"
+},
+{
+  "_id": "a1b2c3d4e5f67890abcd0001",
+  "address": "Rambla Catalunya, 88",
+  "postalCode": "08008",
+  "city": "Barcelona",
+  "province": "Barcelona"
+},
+{
+  "_id": "a1b2c3d4e5f67890abcd0002",
+  "address": "Passeig de Gràcia, 101",
+  "postalCode": "08009",
+  "city": "Barcelona",
+  "province": "Barcelona"
+},
+{
+  "_id": "a1b2c3d4e5f67890abcd0003",
+  "address": "Carrer de Sants, 33",
+  "postalCode": "08014",
+  "city": "Barcelona",
+  "province": "Barcelona"
+}]
